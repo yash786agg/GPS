@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPS</string>
+
+    <string name="GPS">GPS</string>
+    <string name="i_am_sure">I AM SURE</string>
+    <string name="re_try">RE-TRY</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="toast_for_cancelling_the_permission">Sorry you can not proceed further process</string>
+    <string name="permission_access_fine_location">Without this permission the app is unable to get your Location. Are you sure you want to Deny this permission.?</string>
+</resources>
