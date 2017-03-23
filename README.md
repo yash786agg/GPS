@@ -2,7 +2,7 @@
 Turn GPS on programmatically and current location instantly with runtime permission.
 
 ## Demo
-![Gps with runtime](screenshots/Gps with runtime.gif)
+![Demo](screenshots/Demo.gif)
 
  ## Usage
    ### Step 1 : Add "GPS" Library to your Android project.
